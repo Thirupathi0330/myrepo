@@ -1,0 +1,7 @@
+#!/bin/bash
+#DATE=$(date)
+START_TIME=$(date +%s)
+sleep 10
+END_TIME=$(date +%s)
+TOTAL TIME=(($END_TIME-$START_TIME))
+echo "Total time executed : $TOTAL_TIME in minutes"

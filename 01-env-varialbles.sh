@@ -1,1 +1,1 @@
-echo "course name is : $COURSE"
+echo "This course name is  : $COURSE"

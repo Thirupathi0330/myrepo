@@ -8,4 +8,4 @@ echo " sum is : $SUM"
 
 COMPITITORS=("RAJU" "KUMAR" "MY VILLAGE FRIENDS")
 
-echo "MY ENIMIES ARE : ${COMPITIORS[@]}"
+echo "MY ENIMIES ARE : ${COMPITITORS[@]}"
